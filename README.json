@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Detect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Myanmar language processing tools (MIT License)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-29T05:00:29Z",
+            "owner": "MyanmarOnlineAdvertising",
+            "repo": "myanmar_language_tools",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Myanmar NLP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-03T11:34:38Z",
+            "owner": "swanhtet1992",
+            "repo": "awesome-myanmar-nlp",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Myanmar NLP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Syllable-Break"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sorting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Myanmar Speech"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YBS Data",
+          "description": "Yangon Bus Service Data is improved update-to-date version of official lastest YBS data release.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-19T07:19:56Z",
+            "owner": "thantthet",
+            "repo": "YBS-Data",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BHDD",
+          "description": "Burmese Handwritten Digits Dataset (inspired by MNIST dataset)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T03:12:31Z",
+            "owner": "baseresearch",
+            "repo": "BHDD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myanmar Postal Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-29T08:01:54Z",
+            "owner": "MyanmarPost",
+            "repo": "MyanmarPostalCode",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-24T05:27:54Z",
+            "owner": "chanmratekoko",
+            "repo": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mymr-lang-resources",
+          "description": "Freely reusable language resources for Myanmar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-30T03:53:00Z",
+            "owner": "trhura",
+            "repo": "mymr-lang-resources",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myanmar Names",
+          "description": "Open Source List of Myanmar(Burmese) Names for Male & Female Names",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-12-27T08:47:42Z",
+            "owner": "L16H7",
+            "repo": "Myanmar_Names",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myth",
+          "description": "Myanmar and Thai Language Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-07-18T03:26:11Z",
+            "owner": "alvations",
+            "repo": "myth",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myanmar websites url",
+          "description": "collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-23T05:09:27Z",
+            "owner": "cruncheranalyzer",
+            "repo": "MyanmarData",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Component"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Editor Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calendar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dictionary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NRC"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Phone Number"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Myanmar/Burmese transcriptions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tax Calculator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Project with API"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programming Language, Compiler, Virtual Machine, IDE, Editor"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:52:06.184Z",
+    "original_repository": "chanmratekoko/Awesome-Myanmar",
+    "original_repository_sha": "42ccf084f21b80e66465ad6ca49e180d79429143",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Myanmar",
+    "enhanced_repository_description": null,
+    "title": "Awesome List of resources for Myanmar. with stars"
+  }
+}
