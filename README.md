@@ -128,7 +128,7 @@
 
 | Name                                                                                                                                           | Language   | License                                    | Description                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ | ------------------------------------------------------------- |
-| [Myanmar News Classification System](https://github.com/ayehninnkhine/MyanmarNewsClassificationSystem) ⭐ 9 \| 🐛 0 \| 🌐 Java \| 📅 2024-01-30 | Java       |                                            |                                                               |
+| [Myanmar News Classification System](https://github.com/ayehninnkhine/MyanmarNewsClassificationSystem) ⭐ 9 \| 🐛 1 \| 🌐 Java \| 📅 2024-01-30 | Java       |                                            |                                                               |
 | [Burmese Text Classifier](https://github.com/eimg/burmese-text-classifier) ⭐ 34 \| 🐛 0 \| 🌐 JavaScript \| 📅 2018-04-17                      | JavaScript | [MIT](https://opensource.org/licenses/MIT) | A neural network based text classification system for Burmese |
 
 ## Programming Language, Compiler, Virtual Machine, IDE, Editor
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
