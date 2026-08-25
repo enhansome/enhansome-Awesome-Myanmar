@@ -23,7 +23,7 @@
             {
               "node_type": "item",
               "title": "myanmar-tools",
-              "description": "C++, Java, and JavaScript Detect the Zawgyi-One font encoding in C++, Java, and JavaScript",
+              "description": "C++, Java, and JavaScript  Detect the Zawgyi-One font encoding in C++, Java, and JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -96,7 +96,7 @@
             {
               "node_type": "item",
               "title": "Syllable-Break",
-              "description": "C# Myanmar word syllable break",
+              "description": "C#  Myanmar word syllable break",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "myPOS",
-              "description": "Shell, Python myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments",
+              "description": "Shell, Python  myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "Myanmar Collation Stats",
-              "description": "Java Myanmar lexicon analyzer - Sorting and Segmentation",
+              "description": "Java  Myanmar lexicon analyzer - Sorting and Segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -275,7 +275,7 @@
             {
               "node_type": "item",
               "title": "myanmar-sort",
-              "description": "JavaScript Big module for NodeJS to sort any Myanmar/Burmese tex",
+              "description": "JavaScript  Big module for NodeJS to sort any Myanmar/Burmese tex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -290,7 +290,7 @@
             {
               "node_type": "item",
               "title": "Myanmar-Sorting",
-              "description": "Java Myanmar text sort using ICU library.",
+              "description": "Java  Myanmar text sort using ICU library.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
             {
               "node_type": "item",
               "title": "EN-MM-Geology-Dictionary",
-              "description": "Android English To Myanmar Mobile Geology Dictionary",
+              "description": "Android  English To Myanmar Mobile Geology Dictionary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "Tipitaka Pali-Myanmar Dictionary",
-              "description": "Dart Tipitaka Pali Myanmar Dictionary",
+              "description": "Dart  Tipitaka Pali Myanmar Dictionary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "Myanmar-NRC-Parser",
-              "description": "Java Myanmar National Registration Card's Parser",
+              "description": "Java  Myanmar National Registration Card's Parser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,7 +622,7 @@
             {
               "node_type": "item",
               "title": "Myanmar-Phone-Number",
-              "description": "Java Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.",
+              "description": "Java  Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "mya2rom",
-              "description": "JavaScript Myanmar/Burmese script to romanised transcriptions",
+              "description": "JavaScript  Myanmar/Burmese script to romanised transcriptions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -726,7 +726,7 @@
             {
               "node_type": "item",
               "title": "Myanmar Postal Code API",
-              "description": "PHP Complete API for myanmar postal code lookup using township or post office name.",
+              "description": "PHP  Complete API for myanmar postal code lookup using township or post office name.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:57:56.145Z",
+    "last_updated": "2026-08-25T06:31:35.207Z",
     "original_repository": "chanmratekoko/Awesome-Myanmar",
     "original_repository_id": 127871559,
     "original_repository_sha": "42ccf084f21b80e66465ad6ca49e180d79429143",
