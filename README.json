@@ -16,7 +16,8 @@
             "owner": "khzaw",
             "repo": "awesome-myanmar-unicode",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:42:50.857Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "google",
                 "repo": "myanmar-tools",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "MyanmarOnlineAdvertising",
             "repo": "myanmar_language_tools",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:42:50.857Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "swanhtet1992",
             "repo": "awesome-myanmar-nlp",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:50.857Z"
         },
         {
           "children": [
@@ -91,7 +95,8 @@
                 "owner": "thanlwinsoft",
                 "repo": "MyanmarParser",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "mcfnlp",
                 "repo": "Syllable-Break",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "ye-kyaw-thu",
                 "repo": "myPOS",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "thantthet",
                 "repo": "MyanmarParser-Py",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "thantthet",
                 "repo": "MyanmarParser-C",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "swanhtet1992",
                 "repo": "ReSegment",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "eimg",
                 "repo": "myanmar-text-breaker",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "khantthulinn",
                 "repo": "Zawgyi-Segmentation",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "stevenay",
                 "repo": "myan-word-breaker",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "minthanthtoo",
                 "repo": "myanmar-collation-stats",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -263,7 +278,8 @@
                 "owner": "trhura",
                 "repo": "python-myanmar",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -285,7 +301,8 @@
                 "owner": "mapmeld",
                 "repo": "myanmar-sort",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-Sorting",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -322,7 +340,8 @@
                 "owner": "ye-kyaw-thu",
                 "repo": "Spectrograms-of-Myanmar-Speech",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -359,7 +379,8 @@
                 "owner": "thantthet",
                 "repo": "YBS-Data",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "baseresearch",
                 "repo": "BHDD",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -389,7 +411,8 @@
                 "owner": "MyanmarPost",
                 "repo": "MyanmarPostalCode",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "chanmratekoko",
                 "repo": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -419,7 +443,8 @@
                 "owner": "trhura",
                 "repo": "mymr-lang-resources",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "L16H7",
                 "repo": "Myanmar_Names",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -449,7 +475,8 @@
                 "owner": "alvations",
                 "repo": "myth",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "cruncheranalyzer",
                 "repo": "MyanmarData",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -486,7 +514,8 @@
                 "owner": "jsmyanmar",
                 "repo": "react-mm-text",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -514,7 +543,8 @@
                 "owner": "kaungmyatlwin",
                 "repo": "unizawgyi-converter",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -536,7 +566,8 @@
                 "owner": "yan9a",
                 "repo": "mmcal",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -551,7 +582,8 @@
                 "owner": "chanmratekoko",
                 "repo": "mmcalendar",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -573,7 +605,8 @@
                 "owner": "winhtaikaung",
                 "repo": "EN-MM-Geology-Dictionary",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -588,7 +621,8 @@
                 "owner": "pndaza",
                 "repo": "tipitaka_abidan_cross_platform",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -610,7 +644,8 @@
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-NRC-Parser",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -632,7 +667,8 @@
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-Phone-Number",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -647,7 +683,8 @@
                 "owner": "wailynn-supers",
                 "repo": "mm_phonenumber_swift",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -662,7 +699,8 @@
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -677,7 +715,8 @@
                 "owner": "kaungmyatlwin",
                 "repo": "myanmar-phonenumber",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             },
             {
               "node_type": "item",
@@ -692,7 +731,8 @@
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -714,7 +754,8 @@
                 "owner": "myanmaropenwordnet",
                 "repo": "mya2rom",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -736,7 +777,8 @@
                 "owner": "kanaung",
                 "repo": "mypostalcode",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
             }
           ],
           "description": null,
@@ -762,7 +804,8 @@
             "owner": "ayehninnkhine",
             "repo": "MyanmarNewsClassificationSystem",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:42:50.857Z"
         },
         {
           "node_type": "item",
@@ -777,14 +820,15 @@
             "owner": "eimg",
             "repo": "burmese-text-classifier",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:42:50.857Z"
         }
       ],
       "title": "Machine Learning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:19:17.561Z",
+    "last_updated": "2026-08-28T16:42:50.857Z",
     "original_repository_info": {
       "archived": false,
       "id": 127871559,
