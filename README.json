@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles: A curated list of resources for Myanmar Unicode.",
+            "homepage": null,
             "id": 31345965,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-10T12:34:32Z",
+            "open_issues": 1,
             "owner": "khzaw",
             "repo": "awesome-myanmar-unicode",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "awesome",
+              "burma",
+              "burmese",
+              "font",
+              "myanmar",
+              "myanmar-text",
+              "noto",
+              "text-converter",
+              "unicode-converter",
+              "unicode-text",
+              "unicode-zawgyi-converter",
+              "zawgyi"
+            ]
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
         },
@@ -28,12 +46,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detect and convert the Zawgyi-One font encoding in C++, Java, JavaScript, PHP, and Ruby",
+                "homepage": null,
                 "id": 109329697,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-13T02:36:47Z",
+                "open_issues": 15,
                 "owner": "google",
                 "repo": "myanmar-tools",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -55,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of Myanmar language processing tools we use at MOA.com.mm",
+            "homepage": null,
             "id": 205083261,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-08-29T05:00:29Z",
+            "open_issues": 2,
             "owner": "MyanmarOnlineAdvertising",
             "repo": "myanmar_language_tools",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
         },
@@ -71,12 +99,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of resources for Myanmar NLP development.",
+            "homepage": null,
             "id": 83771658,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-03T11:34:38Z",
+            "open_issues": 1,
             "owner": "swanhtet1992",
             "repo": "awesome-myanmar-nlp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-list",
+              "myanmar",
+              "myanmar-nlp",
+              "nlp-resources"
+            ]
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
         },
@@ -89,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Parser (Java)",
+                "homepage": null,
                 "id": 2924767,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2011-12-07T01:12:28Z",
+                "open_issues": 0,
                 "owner": "thanlwinsoft",
                 "repo": "MyanmarParser",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -105,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar word syllable break",
+                "homepage": null,
                 "id": 66347578,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2016-08-23T08:19:59Z",
+                "open_issues": 0,
                 "owner": "mcfnlp",
                 "repo": "Syllable-Break",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -121,12 +169,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syllable segmentation tool for Myanmar language (Burmese) by Ye.",
+                "homepage": null,
                 "id": 86899072,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-18T18:08:27Z",
+                "open_issues": 2,
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "burmese",
+                  "myanmar",
+                  "regular-expressions",
+                  "syllable",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -137,12 +196,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments",
+                "homepage": null,
                 "id": 89192293,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-19T00:24:23Z",
+                "open_issues": 2,
                 "owner": "ye-kyaw-thu",
                 "repo": "myPOS",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "myanmar",
+                  "myanmar-language",
+                  "myanmar-nlp",
+                  "mypos-corpus",
+                  "part-of-speech-tagger",
+                  "pos",
+                  "pos-tagging"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -153,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python script to break down (currently only) Burmese syllable",
+                "homepage": null,
                 "id": 38750855,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2015-07-08T19:22:24Z",
+                "open_issues": 0,
                 "owner": "thantthet",
                 "repo": "MyanmarParser-Py",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -169,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C implementation to break down (currently only) Burmese syllable",
+                "homepage": null,
                 "id": 38808840,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2018-08-30T08:01:11Z",
+                "open_issues": 0,
                 "owner": "thantthet",
                 "repo": "MyanmarParser-C",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -185,12 +267,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Burmese (Myanmar) syllable level segmentation with regex.",
+                "homepage": null,
                 "id": 89517509,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-08-11T07:52:00Z",
+                "open_issues": 0,
                 "owner": "swanhtet1992",
                 "repo": "ReSegment",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "burmese-nlp",
+                  "myanmar-nlp",
+                  "myanmar-text",
+                  "nlp",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -201,12 +294,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript",
+                "homepage": null,
                 "id": 126589964,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-06T15:43:34Z",
+                "open_issues": 1,
                 "owner": "eimg",
                 "repo": "myanmar-text-breaker",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "javascript",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -217,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 61300861,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-06-16T15:39:35Z",
+                "open_issues": 0,
                 "owner": "khantthulinn",
                 "repo": "Zawgyi-Segmentation",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -233,12 +339,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Word Segmentation Tool",
+                "homepage": null,
                 "id": 133787440,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-10-12T15:56:52Z",
+                "open_issues": 0,
                 "owner": "stevenay",
                 "repo": "myan-word-breaker",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "burmese",
+                  "nlp",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -249,12 +364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar lexicon analyzer - Sorting and Segmentation",
+                "homepage": null,
                 "id": 40754592,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-08-11T05:36:41Z",
+                "open_issues": 0,
                 "owner": "minthanthtoo",
                 "repo": "myanmar-collation-stats",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -272,12 +392,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for Myanmar text processing",
+                "homepage": "http://python-myanmar.rtfd.io",
                 "id": 8924497,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-19T05:21:29Z",
+                "open_issues": 6,
                 "owner": "trhura",
                 "repo": "python-myanmar",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "myanmar",
+                  "python",
+                  "python3",
+                  "unicode",
+                  "zawgyi"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -295,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big module for NodeJS to sort any Myanmar/Burmese text",
+                "homepage": "https://www.npmjs.com/package/myanmar-sort",
                 "id": 43009268,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2017-09-12T21:57:00Z",
+                "open_issues": 0,
                 "owner": "mapmeld",
                 "repo": "myanmar-sort",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -311,12 +447,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar text sort using ICU library.",
+                "homepage": null,
                 "id": 128005352,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-04-04T04:27:57Z",
+                "open_issues": 0,
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-Sorting",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "myanmar",
+                  "myanmar-language",
+                  "myanmar-nlp",
+                  "myanmar-sorting",
+                  "myanmar-text",
+                  "sorting"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -334,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar consonant and vowel audio files that I recorded at University of Computer Studies Banmaw",
+                "homepage": null,
                 "id": 157411580,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-03-02T01:46:51Z",
+                "open_issues": 0,
                 "owner": "ye-kyaw-thu",
                 "repo": "Spectrograms-of-Myanmar-Speech",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -350,12 +503,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS).",
+                "homepage": null,
                 "id": 92822137,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2021-04-16T22:30:27Z",
+                "open_issues": 1,
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "asr",
+                  "dictionary",
+                  "g2p",
+                  "grapheme-to-phone",
+                  "myanmar",
+                  "myanmar-grapheme",
+                  "phoneme-conversion",
+                  "text-to-speech"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -373,12 +540,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yangon Bus Service data",
+                "homepage": null,
                 "id": 134535810,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2022-06-19T07:19:56Z",
+                "open_issues": 1,
                 "owner": "thantthet",
                 "repo": "YBS-Data",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "bus",
+                  "data",
+                  "public",
+                  "transit",
+                  "yangon",
+                  "ybs"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -389,12 +568,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Burmese Handwritten Digits Dataset (inspired by MNIST dataset)",
+                "homepage": null,
                 "id": 165000399,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-24T03:12:31Z",
+                "open_issues": 0,
                 "owner": "baseresearch",
                 "repo": "BHDD",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "burmese",
+                  "burmese-nlp",
+                  "dataset",
+                  "digits-dataset"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -405,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All Region & State Location Data With Postal Code ",
+                "homepage": null,
                 "id": 405567928,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-29T08:01:54Z",
+                "open_issues": 1,
                 "owner": "MyanmarPost",
                 "repo": "MyanmarPostalCode",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -421,12 +615,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar (Burmese) Wordlists Dictionary Collection for word segmentation, line breaking and spellchecking.",
+                "homepage": null,
                 "id": 107752498,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-24T05:27:54Z",
+                "open_issues": 1,
                 "owner": "chanmratekoko",
                 "repo": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "burmese",
+                  "myanmar",
+                  "myanmar-language",
+                  "myanmar-nlp",
+                  "nlp",
+                  "segmentation",
+                  "wordlists-dictionary-collection"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -437,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "freely reusable language resources for Myanmar",
+                "homepage": null,
                 "id": 18025540,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-12-30T03:53:00Z",
+                "open_issues": 0,
                 "owner": "trhura",
                 "repo": "mymr-lang-resources",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -453,12 +665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source List of Myanmar(Burmese) Names for Male & Female Names",
+                "homepage": null,
                 "id": 115416231,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-12-27T08:47:42Z",
+                "open_issues": 0,
                 "owner": "L16H7",
                 "repo": "Myanmar_Names",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -469,12 +686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar and Thai Language Resources",
+                "homepage": null,
                 "id": 195318244,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-07-18T03:26:11Z",
+                "open_issues": 1,
                 "owner": "alvations",
                 "repo": "myth",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "machine-translation",
+                  "myanmar",
+                  "nlp",
+                  "thai"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -485,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Myanmar Urls",
+                "homepage": null,
                 "id": 151843055,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-06-23T05:09:27Z",
+                "open_issues": 0,
                 "owner": "cruncheranalyzer",
                 "repo": "MyanmarData",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -508,12 +740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 123572985,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-05T12:02:03Z",
+                "open_issues": 0,
                 "owner": "jsmyanmar",
                 "repo": "react-mm-text",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -537,12 +774,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uni <-> Zawgyi Converter Extension for VSCode.",
+                "homepage": null,
                 "id": 137886191,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T19:42:39Z",
+                "open_issues": 5,
                 "owner": "kaungmyatlwin",
                 "repo": "unizawgyi-converter",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "extension",
+                  "myanmar",
+                  "unicode",
+                  "vscode",
+                  "zawgyi"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -560,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Calendar",
+                "homepage": null,
                 "id": 69255619,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-31T22:36:40Z",
+                "open_issues": 2,
                 "owner": "yan9a",
                 "repo": "mmcal",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -576,12 +829,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Calendar & Algorithm",
+                "homepage": "https://chanmratekoko.github.io/mmcalendar/",
                 "id": 93470316,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-05-10T08:36:58Z",
+                "open_issues": 0,
                 "owner": "chanmratekoko",
                 "repo": "mmcalendar",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "algorithm",
+                  "android",
+                  "astrological-information-converter",
+                  "burmese",
+                  "burmese-astrology",
+                  "calendar",
+                  "converter",
+                  "gregorian",
+                  "jar",
+                  "java",
+                  "julian",
+                  "kotlin",
+                  "myanmar",
+                  "myanmar-astrology",
+                  "myanmar-calendar"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -599,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "English To Myanmar Mobile Geology Dictionary ",
+                "homepage": null,
                 "id": 97388799,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-05-16T07:57:18Z",
+                "open_issues": 0,
                 "owner": "winhtaikaung",
                 "repo": "EN-MM-Geology-Dictionary",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -615,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tipitaka Pali Myanmar Dictionary",
+                "homepage": null,
                 "id": 508752370,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-05-29T16:52:56Z",
+                "open_issues": 0,
                 "owner": "pndaza",
                 "repo": "tipitaka_abidan_cross_platform",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -638,12 +922,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar National Registration Card's Parser",
+                "homepage": null,
                 "id": 96499405,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-03-07T05:16:12Z",
+                "open_issues": 1,
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-NRC-Parser",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "burmese",
+                  "java",
+                  "myanmar",
+                  "national-identification-number",
+                  "nrc",
+                  "parser-library"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -661,12 +957,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.",
+                "homepage": null,
                 "id": 123896082,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-03-05T09:31:42Z",
+                "open_issues": 1,
                 "owner": "chanmratekoko",
                 "repo": "Myanmar-Phone-Number",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "java",
+                  "myanmar",
+                  "myanmar-phone-number",
+                  "phone-number"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -677,12 +983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift port of https://github.com/Melomap/mm_phonenumber to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.",
+                "homepage": null,
                 "id": 124373228,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-08T11:19:50Z",
+                "open_issues": 0,
                 "owner": "wailynn-supers",
                 "repo": "mm_phonenumber_swift",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -693,12 +1004,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python module to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.",
+                "homepage": null,
                 "id": 59016700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-17T11:36:00Z",
+                "open_issues": 0,
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "mpt",
+                  "myanmar",
+                  "myanmar-phone-number",
+                  "ooredoo",
+                  "phone-number",
+                  "python",
+                  "telenor"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -709,12 +1033,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript module port (for browsers and node) of (https://github.com/Melomap/mm_phonenumber) to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.",
+                "homepage": null,
                 "id": 113770527,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-11T13:26:23Z",
+                "open_issues": 6,
                 "owner": "kaungmyatlwin",
                 "repo": "myanmar-phonenumber",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "javascript",
+                  "mobile-networks",
+                  "mpt",
+                  "myanmar",
+                  "mytel",
+                  "ooredoo",
+                  "phone-number",
+                  "telenor"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -725,12 +1063,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python module to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.",
+                "homepage": null,
                 "id": 59016700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-17T11:36:00Z",
+                "open_issues": 0,
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "mpt",
+                  "myanmar",
+                  "myanmar-phone-number",
+                  "ooredoo",
+                  "phone-number",
+                  "python",
+                  "telenor"
+                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -748,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar/Burmese script to romanised transliterations/transcriptions",
+                "homepage": null,
                 "id": 111795279,
                 "language": "JavaScript",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2020-01-03T17:32:45Z",
+                "open_issues": 9,
                 "owner": "myanmaropenwordnet",
                 "repo": "mya2rom",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -771,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Myanmar Postal Code API",
+                "homepage": null,
                 "id": 124766759,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2018-03-11T14:54:35Z",
+                "open_issues": 0,
                 "owner": "kanaung",
                 "repo": "mypostalcode",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             }
@@ -798,12 +1159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 107685310,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-30T13:54:42Z",
+            "open_issues": 1,
             "owner": "ayehninnkhine",
             "repo": "MyanmarNewsClassificationSystem",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
         },
@@ -814,12 +1180,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A neural network based text classification system for Burmese",
+            "homepage": null,
             "id": 127114607,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-17T09:07:47Z",
+            "open_issues": 0,
             "owner": "eimg",
             "repo": "burmese-text-classifier",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "deep-learning",
+              "javascript",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
         }
@@ -828,15 +1203,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:42:50.857Z",
+    "last_updated": "2026-08-29T04:55:32.504Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Myanmar Projects and Resources",
+      "homepage": null,
       "id": 127871559,
       "language": null,
+      "license": null,
       "last_commit": "2023-02-20T20:25:47Z",
+      "open_issues": 0,
       "owner": "chanmratekoko",
       "repo": "Awesome-Myanmar",
-      "stars": 121
+      "stars": 121,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "myanmar",
+        "opensource",
+        "project"
+      ]
     },
     "original_repository_sha": "42ccf084f21b80e66465ad6ca49e180d79429143",
     "enhanced_repository": "enhansome/enhansome-Awesome-Myanmar",
