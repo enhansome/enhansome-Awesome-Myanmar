@@ -1165,7 +1165,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2024-01-30T13:54:42Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "ayehninnkhine",
             "repo": "MyanmarNewsClassificationSystem",
             "stars": 9,
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:56:47.453Z",
+    "last_updated": "2026-09-01T09:28:21.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
