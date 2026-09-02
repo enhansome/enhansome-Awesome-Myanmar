@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "google",
                 "repo": "myanmar-tools",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -205,7 +205,7 @@
                 "open_issues": 2,
                 "owner": "ye-kyaw-thu",
                 "repo": "myPOS",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "myanmar",
                   "myanmar-language",
@@ -508,7 +508,7 @@
                 "id": 92822137,
                 "language": "Perl",
                 "license": null,
-                "last_commit": "2021-04-16T22:30:27Z",
+                "last_commit": "2026-09-02T07:19:14Z",
                 "open_issues": 1,
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
@@ -589,6 +589,35 @@
             },
             {
               "node_type": "item",
+              "title": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Myanmar (Burmese) Wordlists Dictionary Collection for word segmentation, line breaking and spellchecking.",
+                "homepage": null,
+                "id": 107752498,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-02-24T05:27:54Z",
+                "open_issues": 1,
+                "owner": "chanmratekoko",
+                "repo": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
+                "stars": 39,
+                "topics": [
+                  "burmese",
+                  "myanmar",
+                  "myanmar-language",
+                  "myanmar-nlp",
+                  "nlp",
+                  "segmentation",
+                  "wordlists-dictionary-collection"
+                ]
+              },
+              "first_seen": "2026-08-28T16:42:50.857Z"
+            },
+            {
+              "node_type": "item",
               "title": "Myanmar Postal Code",
               "description": null,
               "children": [],
@@ -605,35 +634,6 @@
                 "repo": "MyanmarPostalCode",
                 "stars": 39,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:42:50.857Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Myanmar (Burmese) Wordlists Dictionary Collection for word segmentation, line breaking and spellchecking.",
-                "homepage": null,
-                "id": 107752498,
-                "language": null,
-                "license": null,
-                "last_commit": "2023-02-24T05:27:54Z",
-                "open_issues": 1,
-                "owner": "chanmratekoko",
-                "repo": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
-                "stars": 38,
-                "topics": [
-                  "burmese",
-                  "myanmar",
-                  "myanmar-language",
-                  "myanmar-nlp",
-                  "nlp",
-                  "segmentation",
-                  "wordlists-dictionary-collection"
-                ]
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
             },
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "L16H7",
                 "repo": "Myanmar_Names",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -813,8 +813,8 @@
                 "id": 69255619,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-07-31T22:36:40Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-01T12:26:36Z",
+                "open_issues": 1,
                 "owner": "yan9a",
                 "repo": "mmcal",
                 "stars": 59,
@@ -1013,7 +1013,7 @@
                 "open_issues": 0,
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "mpt",
                   "myanmar",
@@ -1042,7 +1042,7 @@
                 "open_issues": 6,
                 "owner": "kaungmyatlwin",
                 "repo": "myanmar-phonenumber",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "javascript",
                   "mobile-networks",
@@ -1072,7 +1072,7 @@
                 "open_issues": 0,
                 "owner": "Melomap",
                 "repo": "mm_phonenumber",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "mpt",
                   "myanmar",
@@ -1168,7 +1168,7 @@
             "open_issues": 0,
             "owner": "ayehninnkhine",
             "repo": "MyanmarNewsClassificationSystem",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T16:42:50.857Z"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:28:21.805Z",
+    "last_updated": "2026-09-02T08:50:30.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
