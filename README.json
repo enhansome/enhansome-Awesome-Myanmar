@@ -811,13 +811,13 @@
                 "description": "Myanmar Calendar",
                 "homepage": null,
                 "id": 69255619,
-                "language": "JavaScript",
+                "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-08T08:12:45Z",
+                "last_commit": "2026-09-08T22:21:41Z",
                 "open_issues": 1,
                 "owner": "yan9a",
                 "repo": "mmcal",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:55:15.374Z",
+    "last_updated": "2026-09-09T09:00:54.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
