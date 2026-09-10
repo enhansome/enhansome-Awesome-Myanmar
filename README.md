@@ -86,7 +86,7 @@
 
 | Name                                                                                                                 | Language     | License                                    | Description                                                 |
 | -------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ | ----------------------------------------------------------- |
-| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 60 \| 🐛 1 \| 🌐 HTML \| 📅 2026-09-08                           | Javascript   |                                            |                                                             |
+| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 60 \| 🐛 1 \| 🌐 HTML \| 📅 2026-09-09                           | Javascript   |                                            |                                                             |
 | [Myanmar Calendar & Algorithm](https://github.com/chanmratekoko/mmcalendar) ⭐ 32 \| 🐛 0 \| 🌐 Java \| 📅 2026-05-10 | Java Library | [MIT](https://opensource.org/licenses/MIT) | Myanmar Calendar library for Android and Java applications. |
 
 #### Dictionary
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
