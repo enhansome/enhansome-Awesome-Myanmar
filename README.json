@@ -175,7 +175,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-18T18:08:27Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
                 "stars": 70,
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:30:17.353Z",
+    "last_updated": "2026-09-18T09:03:35.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
