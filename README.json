@@ -512,7 +512,7 @@
                 "open_issues": 1,
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "asr",
                   "dictionary",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:56.158Z",
+    "last_updated": "2026-10-03T09:55:31.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
