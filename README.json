@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Myanmar Unicode",
-          "description": null,
+          "description": "khzaw/awesome-myanmar-unicode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "google",
                 "repo": "myanmar-tools",
-                "stars": 267,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -74,7 +74,7 @@
         {
           "node_type": "item",
           "title": "Myanmar language processing tools (MIT License)",
-          "description": null,
+          "description": "MyanmarOnlineAdvertising/myanmar_language_tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,7 +95,7 @@
         {
           "node_type": "item",
           "title": "Awesome Myanmar NLP",
-          "description": null,
+          "description": "swanhtet1992/awesome-myanmar-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,7 +590,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Myanmar-Wordlists-Dictionary-Collection",
-              "description": null,
+              "description": "chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "Myanmar Postal Code",
-              "description": null,
+              "description": "MyanmarPost/MyanmarPostalCode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,7 +979,7 @@
             {
               "node_type": "item",
               "title": "mm_phonenumber_swift",
-              "description": null,
+              "description": "wailynn-supers/mm_phonenumber_swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "myanmar-phonenumber-js",
-              "description": null,
+              "description": "kaungmyatlwin/myanmar-phonenumber",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:34:22.375Z",
+    "last_updated": "2026-10-03T04:26:56.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
