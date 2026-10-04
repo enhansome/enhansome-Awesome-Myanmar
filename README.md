@@ -25,8 +25,8 @@
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | [Myanmar Parser](https://github.com/thanlwinsoft/MyanmarParser) ⭐ 14 \| 🐛 0 \| 🌐 Java \| 📅 2011-12-07                    | Java, C++, C, Shell |                                                                  |                                                                                                   |
 | [Syllable-Break](https://github.com/mcfnlp/Syllable-Break) ⭐ 1 \| 🐛 0 \| 🌐 C# \| 📅 2016-08-23                            | C#                  |                                                                  | Myanmar word syllable break                                                                       |
-| [sylbreak](https://github.com/ye-kyaw-thu/sylbreak) ⭐ 70 \| 🐛 3 \| 🌐 HTML \| 📅 2024-01-18                                | Shell, Python       | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | Syllable segmentation tool for Myanmar language (Burmese) by Ye.                                  |
-| [myPOS](https://github.com/ye-kyaw-thu/myPOS) ⭐ 88 \| 🐛 2 \| 🌐 Python \| 📅 2026-04-19                                    | Shell, Python       |                                                                  | myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments                   |
+| [sylbreak](https://github.com/ye-kyaw-thu/sylbreak) ⭐ 71 \| 🐛 3 \| 🌐 HTML \| 📅 2024-01-18                                | Shell, Python       | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | Syllable segmentation tool for Myanmar language (Burmese) by Ye.                                  |
+| [myPOS](https://github.com/ye-kyaw-thu/myPOS) ⭐ 89 \| 🐛 2 \| 🌐 Python \| 📅 2026-04-19                                    | Shell, Python       |                                                                  | myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments                   |
 | [MyanmarParser-Py](https://github.com/thantthet/MyanmarParser-Py) ⭐ 13 \| 🐛 0 \| 🌐 Python \| 📅 2015-07-08                | Python              | LGPL                                                             | Burmese (Myanmar) syllable level segmentation with regex.                                         |
 | [MyanmarParser-C](https://github.com/thantthet/MyanmarParser-C) ⭐ 1 \| 🐛 0 \| 🌐 C \| 📅 2018-08-30                        | C                   | LGPL                                                             | A C implementation to break down (currently only) Burmese syllable                                |
 | [myanmar-tokenizer](https://github.com/mutour/myanmar-tokenizer)                                                            |                     |                                                                  | A Rule-based Syllable Segmentation of Myanmar Text                                                |
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

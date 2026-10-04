@@ -178,7 +178,7 @@
                 "open_issues": 3,
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "burmese",
                   "myanmar",
@@ -205,7 +205,7 @@
                 "open_issues": 2,
                 "owner": "ye-kyaw-thu",
                 "repo": "myPOS",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "myanmar",
                   "myanmar-language",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:55:31.073Z",
+    "last_updated": "2026-10-04T10:38:45.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
