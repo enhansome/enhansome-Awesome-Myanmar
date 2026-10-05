@@ -60,7 +60,7 @@
 
 * [YBS Data](https://github.com/thantthet/YBS-Data) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2022-06-19 Yangon Bus Service Data is improved update-to-date version of official lastest YBS data release.
 * [BHDD](https://github.com/baseresearch/BHDD) ⭐ 48 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-24 Burmese Handwritten Digits Dataset (inspired by MNIST dataset)
-* [Awesome-Myanmar-Wordlists-Dictionary-Collection](https://github.com/chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection) ⭐ 39 | 🐛 1 | 📅 2023-02-24
+* [Awesome-Myanmar-Wordlists-Dictionary-Collection](https://github.com/chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection) ⭐ 40 | 🐛 1 | 📅 2023-02-24
 * [Myanmar Postal Code](https://github.com/MyanmarPost/MyanmarPostalCode) ⭐ 39 | 🐛 1 | 📅 2022-04-29
 * [mymr-lang-resources](https://github.com/trhura/mymr-lang-resources) ⭐ 24 | 🐛 0 | 📅 2015-12-30 Freely reusable language resources for Myanmar
 * [Myanmar Names](https://github.com/L16H7/Myanmar_Names) ⭐ 18 | 🐛 0 | 📅 2017-12-27   Open Source List of Myanmar(Burmese) Names for Male & Female Names
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
