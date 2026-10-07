@@ -813,7 +813,7 @@
                 "id": 69255619,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-30T10:30:49Z",
+                "last_commit": "2026-10-06T11:35:41Z",
                 "open_issues": 1,
                 "owner": "yan9a",
                 "repo": "mmcal",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:20:56.094Z",
+    "last_updated": "2026-10-07T11:09:10.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
