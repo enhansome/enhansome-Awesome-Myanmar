@@ -2,7 +2,7 @@
 
 ## Myanmar Covid-19 Resources
 
-* [Awesome Myanmar Covid-19 Resources](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) ⭐ 26 | 🐛 0 | 📅 2020-10-02
+* [Awesome Myanmar Covid-19 Resources](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) ⭐ 27 | 🐛 0 | 📅 2020-10-02
 
 ## Unicode
 
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
