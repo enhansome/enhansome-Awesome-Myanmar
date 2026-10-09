@@ -12,7 +12,7 @@
 
 | Name                                                                                                    | Language                  | License | Description                                                      |
 | ------------------------------------------------------------------------------------------------------- | ------------------------- | ------- | ---------------------------------------------------------------- |
-| [myanmar-tools](https://github.com/googlei18n/myanmar-tools) ⭐ 266 \| 🐛 15 \| 🌐 Java \| 📅 2025-03-13 | C++, Java, and JavaScript |         | Detect the Zawgyi-One font encoding in C++, Java, and JavaScript |
+| [myanmar-tools](https://github.com/googlei18n/myanmar-tools) ⭐ 267 \| 🐛 15 \| 🌐 Java \| 📅 2025-03-13 | C++, Java, and JavaScript |         | Detect the Zawgyi-One font encoding in C++, Java, and JavaScript |
 
 ## Myanmar NLP
 
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
