@@ -178,7 +178,7 @@
                 "open_issues": 3,
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
-                "stars": 71,
+                "stars": 73,
                 "topics": [
                   "burmese",
                   "myanmar",
@@ -276,7 +276,7 @@
                 "open_issues": 0,
                 "owner": "swanhtet1992",
                 "repo": "ReSegment",
-                "stars": 27,
+                "stars": 29,
                 "topics": [
                   "burmese-nlp",
                   "myanmar-nlp",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:40:36.587Z",
+    "last_updated": "2026-10-11T10:53:26.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
