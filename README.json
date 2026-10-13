@@ -838,7 +838,7 @@
                 "open_issues": 0,
                 "owner": "chanmratekoko",
                 "repo": "mmcalendar",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "algorithm",
                   "android",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:09:26.015Z",
+    "last_updated": "2026-10-13T11:54:41.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
