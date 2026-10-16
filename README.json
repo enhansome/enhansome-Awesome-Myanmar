@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "google",
                 "repo": "myanmar-tools",
-                "stars": 267,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:12:54.661Z",
+    "last_updated": "2026-10-16T09:05:53.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
