@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "google",
                 "repo": "myanmar-tools",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -178,7 +178,7 @@
                 "open_issues": 3,
                 "owner": "ye-kyaw-thu",
                 "repo": "sylbreak",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "burmese",
                   "myanmar",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T10:01:37.763Z",
+    "last_updated": "2026-10-20T09:29:52.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
