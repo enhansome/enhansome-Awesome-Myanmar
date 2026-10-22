@@ -577,7 +577,7 @@
                 "open_issues": 0,
                 "owner": "baseresearch",
                 "repo": "BHDD",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "burmese",
                   "burmese-nlp",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:25:40.487Z",
+    "last_updated": "2026-10-22T09:28:50.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
