@@ -54,7 +54,7 @@
 | Name                                                                                                                          | Language | License                                                                                                                        | Description                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [Spectrograms-of-Myanmar-Speech](https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech) ⭐ 11 \| 🐛 0 \| 📅 2019-03-02 | -        | [MIT](https://opensource.org/licenses/MIT)                                                                                     | Myanmar consonant and vowel audio files that I recorded at University of Computer Studies Banmaw                                      |
-| [myG2P](https://github.com/ye-kyaw-thu/myG2P) ⭐ 62 \| 🐛 1 \| 🌐 Perl \| 📅 2026-09-02                                        | Perl     | [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS). |
+| [myG2P](https://github.com/ye-kyaw-thu/myG2P) ⭐ 63 \| 🐛 1 \| 🌐 Perl \| 📅 2026-09-02                                        | Perl     | [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS). |
 
 ### Dataset
 
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
