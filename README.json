@@ -205,7 +205,7 @@
                 "open_issues": 2,
                 "owner": "ye-kyaw-thu",
                 "repo": "myPOS",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "myanmar",
                   "myanmar-language",
@@ -512,7 +512,7 @@
                 "open_issues": 1,
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "asr",
                   "dictionary",
@@ -817,7 +817,7 @@
                 "open_issues": 1,
                 "owner": "yan9a",
                 "repo": "mmcal",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:56:24.419Z",
+    "last_updated": "2026-10-25T09:13:19.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
