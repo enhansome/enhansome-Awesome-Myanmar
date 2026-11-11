@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-10T12:34:32Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "khzaw",
             "repo": "awesome-myanmar-unicode",
             "stars": 81,
@@ -817,7 +817,7 @@
                 "open_issues": 1,
                 "owner": "yan9a",
                 "repo": "mmcal",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:42:50.857Z"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:45:52.563Z",
+    "last_updated": "2026-11-11T11:57:01.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",

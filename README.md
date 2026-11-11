@@ -6,7 +6,7 @@
 
 ## Unicode
 
-* [Awesome Myanmar Unicode](https://github.com/khzaw/awesome-myanmar-unicode) ⭐ 81 | 🐛 1 | 📅 2024-01-10
+* [Awesome Myanmar Unicode](https://github.com/khzaw/awesome-myanmar-unicode) ⭐ 81 | 🐛 2 | 📅 2024-01-10
 
 #### Detect
 
@@ -86,7 +86,7 @@
 
 | Name                                                                                                                 | Language     | License                                    | Description                                                 |
 | -------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ | ----------------------------------------------------------- |
-| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 62 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-06                           | Javascript   |                                            |                                                             |
+| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 63 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-06                           | Javascript   |                                            |                                                             |
 | [Myanmar Calendar & Algorithm](https://github.com/chanmratekoko/mmcalendar) ⭐ 33 \| 🐛 0 \| 🌐 Java \| 📅 2026-05-10 | Java Library | [MIT](https://opensource.org/licenses/MIT) | Myanmar Calendar library for Android and Java applications. |
 
 #### Dictionary
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
