@@ -512,7 +512,7 @@
                 "open_issues": 1,
                 "owner": "ye-kyaw-thu",
                 "repo": "myG2P",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "asr",
                   "dictionary",
@@ -838,7 +838,7 @@
                 "open_issues": 0,
                 "owner": "chanmratekoko",
                 "repo": "mmcalendar",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "algorithm",
                   "android",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:54:35.066Z",
+    "last_updated": "2026-11-13T12:20:24.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
