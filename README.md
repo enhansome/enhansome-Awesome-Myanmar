@@ -31,7 +31,7 @@
 | [MyanmarParser-C](https://github.com/thantthet/MyanmarParser-C) ⭐ 1 \| 🐛 0 \| 🌐 C \| 📅 2018-08-30                        | C                   | LGPL                                                             | A C implementation to break down (currently only) Burmese syllable                                |
 | [myanmar-tokenizer](https://github.com/mutour/myanmar-tokenizer)                                                            |                     |                                                                  | A Rule-based Syllable Segmentation of Myanmar Text                                                |
 | [ReSegment](https://github.com/swanhtet1992/ReSegment) ⭐ 29 \| 🐛 0 \| 🌐 Java \| 📅 2019-08-11                             | Python              |                                                                  |                                                                                                   |
-| [Myanmar Text Breaker](https://github.com/eimg/myanmar-text-breaker) ⭐ 34 \| 🐛 1 \| 🌐 JavaScript \| 📅 2024-02-06         | JavaScript          | [MIT](https://opensource.org/licenses/MIT)                       | Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript                   |
+| [Myanmar Text Breaker](https://github.com/eimg/myanmar-text-breaker) ⭐ 35 \| 🐛 1 \| 🌐 JavaScript \| 📅 2024-02-06         | JavaScript          | [MIT](https://opensource.org/licenses/MIT)                       | Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript                   |
 | [Zawgyi-Segmentation](https://github.com/khantthulinn/Zawgyi-Segmentation) ⭐ 0 \| 🐛 0 \| 🌐 Objective-C \| 📅 2016-06-16   | Objective-C         |                                                                  |                                                                                                   |
 | [Myanmar Word Segmentation Tool](https://github.com/stevenay/myan-word-breaker) ⭐ 33 \| 🐛 0 \| 🌐 Python \| 📅 2018-10-12  | Python              | [MIT](https://opensource.org/licenses/MIT)                       | Word segmentation tool for Myanmar sentence. [Demo](https://flask-py-word-breaker.herokuapp.com/) |
 | [Myanmar Collation Stats](https://github.com/minthanthtoo/myanmar-collation-stats) ⭐ 10 \| 🐛 0 \| 🌐 Java \| 📅 2021-08-11 | Java                |                                                                  | Myanmar lexicon analyzer - Sorting and Segmentation                                               |
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

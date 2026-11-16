@@ -303,7 +303,7 @@
                 "open_issues": 1,
                 "owner": "eimg",
                 "repo": "myanmar-text-breaker",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "javascript",
                   "nlp"
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:01:42.903Z",
+    "last_updated": "2026-11-16T12:54:49.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Myanmar Projects and Resources",
