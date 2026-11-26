@@ -12,7 +12,7 @@
 
 | Name                                                                                                    | Language                  | License | Description                                                      |
 | ------------------------------------------------------------------------------------------------------- | ------------------------- | ------- | ---------------------------------------------------------------- |
-| [myanmar-tools](https://github.com/googlei18n/myanmar-tools) ⭐ 269 \| 🐛 15 \| 🌐 Java \| 📅 2025-03-13 | C++, Java, and JavaScript |         | Detect the Zawgyi-One font encoding in C++, Java, and JavaScript |
+| [myanmar-tools](https://github.com/googlei18n/myanmar-tools) ⭐ 269 \| 🐛 17 \| 🌐 Java \| 📅 2025-03-13 | C++, Java, and JavaScript |         | Detect the Zawgyi-One font encoding in C++, Java, and JavaScript |
 
 ## Myanmar NLP
 
@@ -86,7 +86,7 @@
 
 | Name                                                                                                                 | Language     | License                                    | Description                                                 |
 | -------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ | ----------------------------------------------------------- |
-| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 65 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-06                           | Javascript   |                                            |                                                             |
+| [Myanmar Calendar](https://github.com/yan9a/mcal) ⭐ 65 \| 🐛 2 \| 🌐 HTML \| 📅 2026-10-06                           | Javascript   |                                            |                                                             |
 | [Myanmar Calendar & Algorithm](https://github.com/chanmratekoko/mmcalendar) ⭐ 34 \| 🐛 0 \| 🌐 Java \| 📅 2026-05-10 | Java Library | [MIT](https://opensource.org/licenses/MIT) | Myanmar Calendar library for Android and Java applications. |
 
 #### Dictionary
@@ -146,4 +146,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
